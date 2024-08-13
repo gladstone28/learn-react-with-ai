@@ -10,4 +10,6 @@ Learn React Hooks: useEffect - Simply Explained!
 
 https://www.youtube.com/watch?v=-4XpG5_Lj_o
 
+Learn React Hooks: useMemo - Simply Explained!
 
+https://www.youtube.com/watch?v=vpE9I_eqHdM
